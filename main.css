@@ -41,10 +41,11 @@ html, body {
 	color: #393939;
     margin-left: 15px;
     margin-bottom: 40px;
-	background: #efefef;
+	background:lightgoldenrodyellow;
 }
 h1{
     text-indent: 0em;
+    color: red;
 }
 h2{
     margin-left: 2em;
